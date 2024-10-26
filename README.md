@@ -16,6 +16,10 @@
 git clone <リポジトリのURL>
 cd <リポジトリ名>
 ```
+2. **Maven資材作成**
+```bash
+mvn clean package install
+```
 
 2. **Dockerビルド、イメージ作成**
 ```bash
